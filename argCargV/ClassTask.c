@@ -3,6 +3,7 @@
 #include<stdlib.h>
 #pragma warning (disable:4996) 
 
+/*
 typedef struct student {
 	int age;
 	char firstName[100];
@@ -21,7 +22,7 @@ void freeList();
 t_student* head = NULL;
 t_student* tail = NULL;
 
-int main(int argc, char* argv[])
+int main_1_6(int argc, char* argv[])
 {
 	char fileName[1000];
 
@@ -129,3 +130,4 @@ void printTheList()
 	}
 	return;
 }
+*/

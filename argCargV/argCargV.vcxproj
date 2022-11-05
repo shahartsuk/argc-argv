@@ -130,7 +130,9 @@
     <ClCompile Include="argcargv.c" />
     <ClCompile Include="ClassTask.c" />
     <ClCompile Include="classTeaching.c" />
+    <ClCompile Include="BubbleSort.c" />
     <ClCompile Include="TamaraTask.c" />
+    <ClCompile Include="TreeList.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -27,5 +27,11 @@
     <ClCompile Include="classTeaching.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BubbleSort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
